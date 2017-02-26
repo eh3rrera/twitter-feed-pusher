@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - PusherSwift (4.0.1)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - PusherSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  PusherSwift: 8249a1c3634943cf7e1e9a691468357d53ab7e5f
+
+PODFILE CHECKSUM: ded13f4918155774fe77ff7de580a4a85d796ee2
+
+COCOAPODS: 1.2.0

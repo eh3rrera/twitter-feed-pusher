@@ -1,0 +1,6 @@
+framework module Pods_twitter_feed_pusher {
+  umbrella header "Pods-twitter_feed_pusher-umbrella.h"
+
+  export *
+  module * { export * }
+}
